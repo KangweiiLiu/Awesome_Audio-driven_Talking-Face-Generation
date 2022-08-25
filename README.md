@@ -1,6 +1,6 @@
 # Awesome Audio-driven Talking Face Generation
 
-## 2D Encoder-Decoder Base
+## 2D Encoder-Decoder Based
 
 - StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN [F Yin 2022] [arXiv] [demo](https://feiiyin.github.io/StyleHEAT/) [project page](https://feiiyin.github.io/StyleHEAT/)
 - Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation [Hang Zhou 2021] [CVPR] [demo](https://www.youtube.com/watch?v=lNQQHIggnUg) [project page](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)
@@ -23,7 +23,7 @@
 
 
 
-## Landmark Base
+## Landmark Based
 
 - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation [YUANXUN LU 2021] [SIGGRAPH] [demo](https://replicate.com/yuanxunlu/livespeechportraits) [project page](https://github.com/YuanxunLu/LiveSpeechPortraits)
 - Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis [H Wu 2021] [ACMMM] [demo](https://github.com/wuhaozhe/style_avatar) [project page](https://github.com/wuhaozhe/style_avatar)
@@ -36,7 +36,7 @@
 
 
 
-## 3D Model Base
+## 3D Model Based
 
 - Everybody’s Talkin’: Let Me Talk as You Want [Linsen Song 2022]  [TIFS]  [demo](https://www.youtube.com/watch?v=tNPuAnvijQk) 
 - One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning [Suzhen Wang 2022]  [AAAI]  [demo](https://www.youtube.com/watch?v=HHj-XCXXePY) [projectpage](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)
