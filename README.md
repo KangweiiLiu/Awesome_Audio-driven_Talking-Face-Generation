@@ -38,33 +38,33 @@
 
 ## 3D Model Base
 
-- Everybody’s Talkin’: Let Me Talk as You Want [Linsen Song 2022] [demo](https://www.youtube.com/watch?v=tNPuAnvijQk) [TIFS]
-- One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning [Suzhen Wang 2022] [AAAI] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- FaceFormer: Speech-Driven 3D Facial Animation with Transformers [Y Fan 2022] [CVPR] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Iterative Text-based Editing of Talking-heads Using Neural Retargeting [Xinwei Yao 2021] [ICML] [demo](https://www.youtube.com/watch?v=oo4tB0f6uqQ) [project page]()
-- AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [Yudong Guo 2021] [ICCV] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Audio-driven emotional video portraits [X Ji 2021] [CVPR] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning [C Zhang 2021] [ICCV] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset [Z Zhang 2021] [CVPR] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion [Suzhen Wang 2021] [IJCAI] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement [A Richard 2021] [ICCV] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- 3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head [Q Wang 2021] [arXiv]
-- Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation [L Li 2021] [AAAI] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary [S Zhang 2021] [ICASSP] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Neural Voice Puppetry: Audio-driven Facial Reenactment [Justus Thies 2020] [ECCV] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [Ran Yi 2020] [arXiv] [project page](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) [arXiv]
-- Talking-head Generation with Rhythmic Head Motion [Lele Chen 2020] [ECCV] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Modality Dropout for Improved Performance-driven Talking Faces [Hussen Abdelaziz 2020] [ICMI]
-- Audioand Gaze-driven Facial Animation of Codec Avatars [A Richard 2020] [arXiv] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Text-based editing of talking-head video [OHAD FRIED 2019] [arXiv] [demo](https://www.youtube.com/watch?v=0ybLCfVeFL4) 
-- Capture, Learning, and Synthesis of 3D Speaking Styles [D Cudeiro 2019] [CVPR] [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [project page](https://github.com/facebookresearch/meshtalk)
-- Visemenet: audio-driven animator-centric speech animation [YANG ZHOU 2018] [TOG] [demo](https://www.youtube.com/watch?v=kk2EnyMD3mo) 
-- Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks [N Sadoughi 2018] [TAC]
-- Speech-driven 3D Facial Animation with Implicit Emotional Awareness: A Deep Learning Approach [Hai X. Pham 2017] [IEEE Trans. Syst. Man Cybern.: Syst.]
-- Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion [TERO KARRAS 2017] [TOG] [demo](https://www.youtube.com/watch?v=lDzrfdpGqw4&t) [project page](https://research.nvidia.com/publication/2017-07_audio-driven-facial-animation-joint-end-end-learning-pose-and-emotion)
-- A deep learning approach for generalized speech animation [SARAH TAYLOR 2017]  [SIGGRAPH] [demo](https://www.youtube.com/watch?v=GwV1n8v_bpA)
-- End-to-end Learning for 3D Facial Animation from Speech  [HX Pham 2017] [ICMI]
-- JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization [Pif Edwards 2016] [SIGGRAPH] [demo](https://www.youtube.com/watch?v=vniMsN53ZPI) 
+- Everybody’s Talkin’: Let Me Talk as You Want [Linsen Song 2022]  [TIFS]  [demo](https://www.youtube.com/watch?v=tNPuAnvijQk) 
+- One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning [Suzhen Wang 2022]  [AAAI]  [demo](https://www.youtube.com/watch?v=HHj-XCXXePY) [projectpage](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)
+- FaceFormer: Speech-Driven 3D Facial Animation with Transformers [Y Fan 2022]  [CVPR]  [demo](https://www.youtube.com/watch?v=NYms53uf9YY) [projectpage](https://github.com/EvelynFan/FaceFormer)
+- Iterative Text-based Editing of Talking-heads Using Neural Retargeting [Xinwei Yao 2021]  [ICML]  [demo](https://www.youtube.com/watch?v=oo4tB0f6uqQ) 
+- AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [Yudong Guo 2021]  [ICCV]  [demo](https://www.youtube.com/watch?v=TQO2EBYXLyU) [projectpage](https://github.com/YudongGuo/AD-NeRF)
+- Audio-driven emotional video portraits [X Ji 2021]  [CVPR]  [demo](https://www.youtube.com/watch?v=o6LQfLkizbw) [projectpage](https://github.com/jixinya/EVP)
+- FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning [C Zhang 2021]  [ICCV]  [demo](https://www.youtube.com/watch?v=hl9ek3bUV1E) [projectpage](https://github.com/zhangchenxu528/FACIAL)
+- Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset [Z Zhang 2021]  [CVPR]  [demo](https://www.youtube.com/watch?v=uJdBgWYBTww) [projectpage](https://github.com/MRzzm/HDTF)
+- Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion [Suzhen Wang 2021]  [IJCAI]  [demo](https://www.youtube.com/watch?v=xvcBJ29l8rA) [projectpage](https://github.com/wangsuzhen/Audio2Head)
+- MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement [A Richard 2021]  [ICCV]  [demo](https://www.facebook.com/MetaResearch/videos/251508987094387/) [projectpage](https://github.com/facebookresearch/meshtalk)
+- 3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head [Q Wang 2021]  [arXiv]  
+- Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation [L Li 2021]  [AAAI]  [demo](https://www.youtube.com/watch?v=weHA6LHv-Ew) [projectpage](https://github.com/FuxiVirtualHuman/Write-a-Speaker)
+- Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary [S Zhang 2021 ]  [ICASSP]  [demo](https://twitter.com/_akhaliq/status/1389054381182570497) [projectpage](https://github.com/sibozhang/Text2Video)
+- Neural Voice Puppetry: Audio-driven Facial Reenactment [Justus Thies 2020]  [ECCV]  [demo](https://www.youtube.com/watch?v=s74_yQiJMXA) [projectpage](https://github.com/miu200521358/NeuralVoicePuppetryMMD)
+- Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [Ran Yi 2020]  [arXiv]   [projectpage](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)
+- Talking-head Generation with Rhythmic Head Motion [Lele Chen 2020]  [ECCV]  [demo](https://www.youtube.com/watch?v=kToSgSFoRz8) [projectpage](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)
+- Modality Dropout for Improved Performance-driven Talking Faces [‎Hussen Abdelaziz 2020]  [ICMI]  
+- Audio- and Gaze-driven Facial Animation of Codec Avatars [A Richard 2020]  [arXiv]  [demo](https://www.youtube.com/watch?v=1nZjW_xoCDQ) [projectpage](https://research.facebook.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/)
+- Text-based editing of talking-head video [OHAD FRIED 2019]  [arXiv]  [demo](https://www.youtube.com/watch?v=0ybLCfVeFL4) 
+- Capture, Learning, and Synthesis of 3D Speaking Styles [D Cudeiro 2019]  [CVPR]  [demo](https://www.youtube.com/watch?v=XceCxf_GyW4) [projectpage](https://github.com/TimoBolkart/voca)
+- Visemenet: audio-driven animator-centric speech animation [YANG ZHOU 2018]  [TOG]  [demo](https://www.youtube.com/watch?v=kk2EnyMD3mo) 
+- Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks [N Sadoughi 2018]  [TAC]  
+- Speech-driven 3D Facial Animation with Implicit Emotional Awareness: A Deep Learning Approach [Hai X. Pham 2017]  [IEEE Trans. Syst. Man Cybern.: Syst.]  
+- Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion [TERO KARRAS 2017]  [TOG]  [demo](https://www.youtube.com/watch?v=lDzrfdpGqw4&t) [projectpage](https://research.nvidia.com/publication/2017-07_audio-driven-facial-animation-joint-end-end-learning-pose-and-emotion)
+- A deep learning approach for generalized speech animation [SARAH TAYLOR 2017]  [SIGGRAPH]  [demo](https://www.youtube.com/watch?v=GwV1n8v_bpA) 
+- End-to-end Learning for 3D Facial Animation from Speech [HX Pham 2017]  [ICMI]  
+- JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization [Pif Edwards 2016]  [SIGGRAPH]  [demo](https://www.youtube.com/watch?v=vniMsN53ZPI) 
 
 
 
